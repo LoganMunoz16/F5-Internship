@@ -1,7 +1,10 @@
 # F5 Internship
 ## Overview
 The following is a calendar giving a full overview of my intern cohort's activities throughout the internship, and progress made on Project NSure.
-![image](https://user-images.githubusercontent.com/59589283/218954868-3651fa1e-6de9-4277-afc2-910d65ea7438.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59589283/218954868-3651fa1e-6de9-4277-afc2-910d65ea7438.png" />
+</p>
 
 
 ## NSure
@@ -9,8 +12,23 @@ Project NSure is a web application designed to reduce the complexity of NGINX co
 
 
 -  Release Aachen
-  -  as;dlkfjsad;flk
+    -  Login/Register System
+    -  Re-configure a page displaying applications connected to the NGINX instance
+    -  Added a type field for each application
 
 -  Release Berlin/Cologne
+    - Full refactoring of state management
+    - UI/UX for a drawer to customize application protections
+    - Updated UI for adding an application
 
-##H ackathon
+
+Another large piece of Project NSure came in the form of presentations. Most notably, F5 holds a Learning Day once a quarter, where employees are encouraged to take a break from their usual projects to learn something new. Our intern teams were tasks with creating a video presentation to display at a Virtual Fair on this day. This was a test of our presentation skills, and our ability to talk with VIPs about the specifics of Project NSure when handling questions from those in attendance. Below is the poster for the Learning Day we presented at, which doubled as our Zoom background as presenters. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59589283/218957020-0163c1e2-f8bf-498c-9491-a92512e04753.png" />
+</p>
+
+
+## Hackathon
+
+
