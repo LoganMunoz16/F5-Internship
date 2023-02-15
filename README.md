@@ -30,5 +30,5 @@ Another large piece of Project NSure came in the form of presentations. Most not
 
 
 ## Hackathon
-
+In week 4 of my internship, the Greenhouse held an intern hackathon. All interns were flown in to the Seattle office, and given a day and a half to form groups and create an application geared toward social change. My group consisted of 5 interns, and we created a web application called Food Bank Food App. The application allowed users to submit descriptions of food they would like to donate to a nearby organization, and a text would be sent with that user's address and donation information to any nearby delivery drivers for the organization in question. Food Bank Food App was geared toward making it easier for peopl
 
